@@ -28,7 +28,7 @@ Burp Suite Community Edition requires the official Java SE Runtime Environment 1
     <releaseNotes>https://portswigger.net/burp/releases/professional-community-2021-8-1?requestededition=community</releaseNotes>
     <copyright>PortSwigger Ltd. All Rights Reserved.</copyright>
     <tags>burp-suite proxy security testing web-applications freeware</tags>
-    <packageSourceUrl>https://github.com/agabrys/chocolatey-packages/tree/master/manual/burp-suite-free-edition/noarch</packageSourceUrl>
+    <packageSourceUrl>https://github.com/rewq/chocolatey-packages/tree/master/manual/burp-suite-pro-edition/noarch</packageSourceUrl>
     <dependencies>
       <dependency id="openjdk13" />
     </dependencies>
