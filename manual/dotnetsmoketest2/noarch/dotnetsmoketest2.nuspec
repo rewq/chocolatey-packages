@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>dotnetsmoketest2</id>
+    <version>2.3.16.1</version>
+    <title>.net SmokeTest (CLR 2.0)</title>
+    <authors>Wesley Steiner</authors>
+    <owners>rewq</owners>
+    <licenseUrl>https://raw.githubusercontent.com/tdmurtmub/dotnet_smoketest_20/master/LICENSE</licenseUrl>
+    <projectUrl>http://smoketest.wesleysteiner.com/</projectUrl>
+    <projectSourceUrl>https://github.com/tdmurtmub/dotnet_smoketest_20</projectSourceUrl>
+    <packageSourceUrl>https://github.com/rewq/chocolatey-packages/tree/master/manual/dotnetsmoketest2/noarch</packageSourceUrl>
+    <iconUrl>http://smoketest.wesleysteiner.com/icon256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.net SmokeTest for Windows(r) (CLR 2.0)
+======
+
+.net SmokeTest is a Windows application that provides an interactive interface into any .net Assembly allowing you to smoke-test an API without writing a single line of code. Construct an instance, call a method and get or set a property or field of any class then view or "drill-down" into the result.
+Use this version if you only have .net 2.0 installed on your system.</description>
+    <summary>.net SmokeTest is a Windows application that provides an interactive interface into any .net Assembly allowing you to smoke-test an API without writing a single line of code. Construct an instance, call a method and get or set a property or field of any class then view or "drill-down" into the result.
+    Use this version if you only have .net 2.0 installed on your system.</summary>
+    <copyright>Copyright (c) 2010-2016 Wesley Steiner</copyright>
+    <tags>dotNet smoketest proxy security testing freeware</tags>
+  </metadata>
+</package>
