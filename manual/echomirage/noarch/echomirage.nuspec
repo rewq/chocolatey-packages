@@ -11,9 +11,8 @@
 ======
 
 Echo Mirage is a generic network proxy that uses DLL injection and function hooking techniques to redirect network related function calls so that data transmitted and received by local applications can be observed and modified. The traffic can be intercepted in real-time or manipulated with regular expressions and a number of action directives.</description>
-    <summary>SSLyze is a fast and powerful SSL/TLS scanning library.</summary>
-    <releaseNotes>https://github.com/nabla-c0d3/sslyze/releases/tag/4.1.0</releaseNotes>
-    <copyright>Copyright (c) 2021 Alban Diquet</copyright>
+    <summary>Echo Mirage is a generic network proxy that uses DLL injection and function hooking techniques to redirect network related function calls so that data transmitted and received by local applications can be observed and modified. The traffic can be intercepted in real-time or manipulated with regular expressions and a number of action directives.</summary>
+    <copyright>Copyright (c) 2006-2013 Wildcroft Security Ltd.</copyright>
     <tags>echomirage echo mirage ssl proxy</tags>
     <packageSourceUrl>https://github.com/rewq/chocolatey-packages/tree/main/manual/echomirage/noarch</packageSourceUrl>
   </metadata>
