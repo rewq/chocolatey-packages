@@ -6,6 +6,7 @@
     <title>Echo Mirage</title>
     <authors>Wildcroft Security Ltd.</authors>
     <owners>rewq</owners>
+    <projectUrl>https://github.com/rewq/chocolatey-packages/tree/main/manual/echomirage</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Echo Mirage
 ======
