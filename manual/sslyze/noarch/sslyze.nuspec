@@ -51,6 +51,6 @@ SSLyze is made available under the terms of the GNU Affero General Public Licens
     <releaseNotes>https://github.com/nabla-c0d3/sslyze/releases/tag/4.1.0</releaseNotes>
     <copyright>Copyright (c) 2021 Alban Diquet</copyright>
     <tags>ssl sslyze</tags>
-    <packageSourceUrl>https://github.com/rewq/chocolatey-packages/tree/main/manual/sslyze</packageSourceUrl>
+    <packageSourceUrl>https://github.com/rewq/chocolatey-packages/tree/main/manual/sslyze/noarch</packageSourceUrl>
   </metadata>
 </package>
