@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>pesecurity</id>
+    <version>2021.5.14</version>
+    <title>PESecurity</title>
+    <authors>NetSPI</authors>
+    <owners>rewq</owners>
+    <licenseUrl>https://raw.githubusercontent.com/NetSPI/PESecurity/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/NetSPI/PESecurity</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PESecurity
+=========
+
+PowerShell script to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, Authenticode, Control Flow Guard, and HighEntropyVA.
+  </description>
+    <summary>PowerShell script to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, Authenticode, Control Flow Guard, and HighEntropyVA.</summary>
+    <releaseNotes>https://www.netspi.com/blog/technical/network-penetration-testing/verifying-aslr-dep-and-safeseh-with-powershell/</releaseNotes>
+    <copyright>Copyright (c) 2015 NetSPI</copyright>
+    <tags>security</tags>
+    <packageSourceUrl>https://github.com/rewq/chocolatey-packages/tree/master/manual/pesecurity/noarch</packageSourceUrl>
+  </metadata>
+</package>
