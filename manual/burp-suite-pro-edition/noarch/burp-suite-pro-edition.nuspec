@@ -3,9 +3,9 @@
   <metadata>
     <id>burp-suite-pro-edition</id>
     <version>2021.8.2</version>
-    <title>Burp Suite Community Edition</title>
+    <title>Burp Suite Pro Edition</title>
     <authors>PortSwigger Ltd.</authors>
-    <owners>agabrys</owners>
+    <owners>rewq</owners>
     <licenseUrl>https://portswigger.net/burp/eula/community</licenseUrl>
     <projectUrl>https://portswigger.net/burp/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/rewq/chocolatey-packages/main/manual/burp-suite-pro-edition/icon-pro.png</iconUrl>
