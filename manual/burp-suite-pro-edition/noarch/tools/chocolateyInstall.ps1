@@ -2,7 +2,7 @@ $toolsDir = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $appDir = "${toolsDir}\app"
 
 $packageArgs = @{
-  packageName  = 'burp-suite-free-edition'
+  packageName  = 'burp-suite-pro-edition'
   fileFullPath = "${appDir}\burpsuite_pro.jar"
   url          = 'https://portswigger.net/burp/releases/download?product=pro&version=2021.8.2&type=Jar'
   checksum     = 'f8706df120be5478c6da361b316050e7b8423d9973f0b1a946de57c4085355a6'
