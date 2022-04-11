@@ -1,5 +1,5 @@
 # Burp Suite Pro Edition
-[![](https://img.shields.io/chocolatey/v/burp-suite-pro-edition?color=green&label=010editor)](https://chocolatey.org/packages/burp-suite-pro-edition) [![](https://img.shields.io/chocolatey/dt/burp-suite-pro-edition)](https://chocolatey.org/packages/burp-suite-pro-edition)
+[![](https://img.shields.io/chocolatey/v/burp-suite-pro-edition?color=green&label=Burp+Suite+Pro+Edition)](https://chocolatey.org/packages/burp-suite-pro-edition) [![](https://img.shields.io/chocolatey/dt/burp-suite-pro-edition)](https://chocolatey.org/packages/burp-suite-pro-edition)
 
 Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities.
 
