@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>burp-suite-pro-edition</id>
+    <version>2022.3.3</version>
+    <title>Burp Suite Pro Edition</title>
+    <authors>PortSwigger Ltd.</authors>
+    <projectUrl>https://portswigger.net/burp/pro</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/rewq/chocolatey-packages/automatic/burp-suite-pro-edition/tools/icon.ico</iconUrl>
+    <tags>burp-suite proxy security testing web-applications freeware</tags>
+    <summary>Burp Suite is an integrated platform for performing security testing of web applications.</summary>
+    <description><![CDATA[
+Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities.
+
+Burp gives you full control, letting you combine advanced manual techniques with state-of-the-art automation, to make your work faster, more effective, and more fun.
+
+Burp Suite Pro Edition requires the official Java SE Runtime Environment 7 or later.
+]]></description>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
+  </files>
+</package>
