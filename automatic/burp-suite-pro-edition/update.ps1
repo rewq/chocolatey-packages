@@ -18,7 +18,7 @@ function global:au_GetLatest {
 
     $version = $latestBuild.Version
     $relurl = $latestRelease.url
-    $url="https://portswigger-cdn.net/burp/releases/download?product=pro&version=${version}&type=WindowsX64"
+    $url="https://portswigger.net/burp/releases/startdownload?product=pro&version=${version}&type=WindowsX64"
     $releaseNotesURL = "https://portswigger.net${relurl}"
 
     return @{
