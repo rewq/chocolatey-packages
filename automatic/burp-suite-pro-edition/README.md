@@ -1,1 +1,1 @@
-![Chocolatey Version](https://img.shields.io/chocolatey/v/burp-suite-pro-edition?label=Burp%20Suite%20Pro&style=for-the-badge) ![Chocolatey](https://img.shields.io/chocolatey/dt/burp-suite-pro-edition?style=for-the-badge)
+![![Chocolatey Version](https://img.shields.io/chocolatey/v/burp-suite-pro-edition?label=Burp%20Suite%20Pro&style=for-the-badge)](https://community.chocolatey.org/packages/burp-suite-pro-edition/) ![Chocolatey](https://img.shields.io/chocolatey/dt/burp-suite-pro-edition?style=for-the-badge)
