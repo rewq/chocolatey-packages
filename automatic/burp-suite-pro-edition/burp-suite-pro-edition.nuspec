@@ -7,6 +7,7 @@
     <authors>PortSwigger Ltd.</authors>
     <projectUrl>https://portswigger.net/burp/pro</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://portswigger.net/burp/eula/pro</licenseUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/rewq/chocolatey-packages/automatic/burp-suite-pro-edition/tools/icon.ico</iconUrl>
     <tags>burp-suite proxy security testing web-applications freeware</tags>
     <summary>Burp Suite is an integrated platform for performing security testing of web applications.</summary>
