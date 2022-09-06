@@ -1,0 +1,1 @@
+Remove-Item -LiteralPath "$Env:ProgramFiles\WindowsPowerShell\Modules\Get-PESecurity" -Force -Recurse
