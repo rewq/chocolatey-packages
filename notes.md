@@ -1,3 +1,3 @@
-Get checksum of a file:
-Get-FileHash /etc/apt/sources.list | Format-List
+## Notes
+Collection of random notes on creating and maintaining choco packages
 
